@@ -1,0 +1,12 @@
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color:black;
+}
+
+h1 {
+    color: green;
+    font-weight: bold;
+}
